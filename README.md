@@ -41,10 +41,10 @@ README.md  <- (this file / este arquivo)
 ⚙️ How to Run / Como Executar
 
 1️⃣ Clone the repository / Clone o repositório:
-
+```
 git clone https://github.com/rodrigohigashi/Data_Analysis.git
 cd Data_Analysis
-
+```
 
 2️⃣ Create a virtual environment and install dependencies / Crie um ambiente virtual e instale as dependências:
 
